@@ -1,0 +1,6 @@
+.box:nth-child(even) {
+  background-color: yellow;
+}
+.box:nth-child(odd) {
+  background-color: red;
+}
